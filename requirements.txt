@@ -1,7 +1,2 @@
 aiogram==2.23.1
 python-dotenv
-# aioredis
-# psycopg2-binary==2.9.5
-# aioschedule==0.5.2
-# Pillow==9.4.0
-# openpyxl==3.0.10
